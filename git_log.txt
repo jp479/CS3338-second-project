@@ -1,0 +1,52 @@
+commit 60c596a242b88c91109bf85143156596ffec0e78
+Merge: cfe0c98 ef62da0
+Author: jp479 <153343826+jp479@users.noreply.github.com>
+Date:   Wed Sep 9 15:29:35 2026 -0700
+
+    Fix merge conflic
+
+commit ef62da005bf6033ad75554aaf08f703fee7300eb
+Author: jp479 <153343826+jp479@users.noreply.github.com>
+Date:   Wed Sep 9 15:20:03 2026 -0700
+
+    Add favorite game
+
+commit cfe0c98fd91d943b21af2f5e5ae796a1af102e57
+Author: jp479 <153343826+jp479@users.noreply.github.com>
+Date:   Wed Sep 9 15:16:08 2026 -0700
+
+    Add favorite food
+
+commit 009a7b125fcd07b79c806a0306c3264aebbc3c84
+Merge: 912c21e 42dc814
+Author: jp479 <153343826+jp479@users.noreply.github.com>
+Date:   Wed Sep 9 15:07:51 2026 -0700
+
+    Merge branch 'main' of https://github.com/jp479/CS3338-second-project
+
+commit 912c21ea6487672a4bc87ab531ba3c1641e617fe
+Author: jp479 <153343826+jp479@users.noreply.github.com>
+Date:   Wed Sep 9 15:06:42 2026 -0700
+
+    Added README.md
+
+commit 42dc814867accba49c31227e1bf8ee87a9a44493
+Merge: 1d2bfc0 da33cd2
+Author: jp479 <153343826+jp479@users.noreply.github.com>
+Date:   Wed Sep 9 15:03:00 2026 -0700
+
+    Merge pull request #1 from jp479/info-fill
+    
+    Filled the blanks in index.html
+
+commit da33cd2f0e6c0ca879846c46f7e89de5b5c055cf
+Author: jp479 <153343826+jp479@users.noreply.github.com>
+Date:   Wed Sep 9 14:55:40 2026 -0700
+
+    Filled the blanks in index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
